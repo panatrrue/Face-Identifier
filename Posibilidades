@@ -1,15 +1,19 @@
 Cómo construir un sistema de reconocimiento facial basado en ESP32
-
 Esta guía cubre el hardware y el software necesarios, la configuración y el cableado para construir un sistema de reconocimiento facial basado en ESP32 utilizando el IDE de Arduino.
+https://maker.pro/arduino/projects/how-to-build-an-esp32-based-facial-recognition-system
+
 Reconocimiento facial ESP32-CAM con Arduino - CodePal
-
 Esta guía proporciona el código Arduino para el reconocimiento facial utilizando un modelo previamente entrenado con ESP32-CAM.
+https://codepal.ai/code-generator/query/uyjvhu82/arduino-esp32cam-face-recognition
+
 Sistema de reconocimiento facial y ocular basado en CAM ESP32 - Cómo hacer electrónica
-
 Este tutorial presenta un método eficiente de transmisión de video de forma inalámbrica utilizando el módulo ESP32-CAM para reconocimiento de rostros y ojos.
+https://how2electronics.com/esp32-cam-based-face-eyes-recognition-system/
+
 Transmisión de video ESP32-CAM y reconocimiento facial con Arduino IDE
-
 Este artículo muestra cómo configurar un servidor web de transmisión de video con reconocimiento y detección facial utilizando el IDE de Arduino.
-Proyecto de reconocimiento facial con ESP32-CAM y Edge Impulse
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
 
+Proyecto de reconocimiento facial con ESP32-CAM y Edge Impulse
 Esta guía cubre la preparación del conjunto de datos, el entrenamiento del modelo, la implementación y las conexiones de circuitos para implementar un sistema de reconocimiento facial utilizando ESP32-CAM y Edge Impulse.
+https://circuitdigest.com/microcontroller-projects/esp32-cam-face-recognition-using-edge-impulse
